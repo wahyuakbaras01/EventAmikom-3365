@@ -2,5 +2,5 @@ tugas 1
 
 Nama : WAHYU AKBAR AZIZ SAPUTRA
 NIM : 24.12.3365
-Kelas : SI 05
+Kelas : 24SI05
 
